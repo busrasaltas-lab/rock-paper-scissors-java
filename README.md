@@ -12,8 +12,3 @@ A Rock Paper Scissors game developed in Java using Swing.
 - Java
 - Java Swing
 - Apache NetBeans
-
-## How to Run
-1. Clone this repository.
-2. Open the project in Apache NetBeans.
-3. Run the `GameGUI` class.
